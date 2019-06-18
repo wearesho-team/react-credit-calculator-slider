@@ -9,7 +9,6 @@ exports[`<Slider /> renders correctly 1`] = `
   onMouseDown={[Function]}
   onMouseUp={[Function]}
   onTouchStart={[Function]}
-  style={undefined}
 >
   <div
     className="rc-slider-rail"
